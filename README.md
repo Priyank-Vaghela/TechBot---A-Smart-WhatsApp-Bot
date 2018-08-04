@@ -17,6 +17,6 @@ Features: Use everything via WhatsApp
 * Age Calculater
 ---
 
-Note: TechBot is not affiliated with WhatsApp or use any API by WhatsApp.
+Note: TechBot is not affiliated with WhatsApp or using any API by WhatsApp.
 
 
