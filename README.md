@@ -1,5 +1,5 @@
 # TechBot - https://bit.ly/hitechbot
-- Daily Tech Tricks | Downloader | Converter & more Awesome Utilities
+Daily Tech Tricks | Downloader | Converter & more Awesome Utilities
 
 ## Official Website: https://techbot.online
 --------------------
@@ -8,6 +8,7 @@
 Features: Use everything via WhatsApp
 --------
 
+* Daily 1 new trick
 * Youtube Video/Audio Downloader
 * Website to Photo/PDF Converter
 * Wikipedia on WhatsApp
