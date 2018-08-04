@@ -1,5 +1,5 @@
 # TechBot - https://bit.ly/hitechbot
-Daily Tech Tricks | Downloader | Converter | Awesome Utilities
+- Daily Tech Tricks | Downloader | Converter & more Awesome Utilities
 
 ## Official Website: https://techbot.online
 --------------------
@@ -16,6 +16,6 @@ Features: Use everything via WhatsApp
 * Age Calculater
 ---
 
-Note: TechBot is not Affiliated with WhatsApp or use any API's by WhatsApp
+Note: TechBot is not affiliated with WhatsApp or use any API by WhatsApp.
 
 
