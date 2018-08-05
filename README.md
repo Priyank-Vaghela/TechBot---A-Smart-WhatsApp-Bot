@@ -18,5 +18,5 @@ Features: Use everything via WhatsApp
 ---
 
 Note: 
-TechBot is not supported, endorsed or affiliated in any manner by WhatsApp Inc. WhatsApp Messenger is a proprietary cross-platform Instant Messaging service for Smart-Phones that is owned and provided by WhatsApp Inc
+TechBot is not endorsed or affiliated in any manner by WhatsApp Inc. WhatsApp Messenger is a proprietary cross-platform Instant Messaging service for Smart-Phones that is owned and provided by WhatsApp Inc
 
