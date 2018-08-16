@@ -4,6 +4,7 @@ Daily Tech Tricks | Downloader | Converter & more Awesome Utilities
 ## Official Website: https://techbot.online
 --------------------
 
+<img src="./assets/techbot_features.gif">
 
 Features: Use everything via WhatsApp
 --------
